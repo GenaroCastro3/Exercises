@@ -1,0 +1,1 @@
+export const timeNames = ["Days", "Hours", "Minutes", "Seconds"]
